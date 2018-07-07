@@ -1,0 +1,16 @@
+﻿Build started 2018/7/6 19:59:06.
+     1>Project "C:\LocalPro\KinectV2\RatBehaviorAnalysis\RatBehaviorAnalysis\RatBehaviorAnalysis.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.6.0\5.6\msvc2013\include /I.\GeneratedFiles\Release /ID:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore /ID:\Qt\Qt5.6.0\5.6\msvc2013\include\QtGui /ID:\Qt\Qt5.6.0\5.6\msvc2013\include\QtWidgets /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ratbehavioranalysis.cpp
+         ratbehavioranalysis.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\LocalPro\KinectV2\RatBehaviorAnalysis\Win32\Release\\RatBehaviorAnalysis.exe" /NOLOGO /LIBPATH:D:\Qt\Qt5.6.0\5.6\msvc2013\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib opencv_core2410.lib opencv_highgui2410.lib opencv_video2410.lib opencv_imgproc2410.lib opencv_features2d2410.lib opencv_nonfree2410.lib opencv_legacy2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib Kinect20.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\LocalPro\KinectV2\RatBehaviorAnalysis\Win32\Release\RatBehaviorAnalysis.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\LocalPro\KinectV2\RatBehaviorAnalysis\Win32\Release\RatBehaviorAnalysis.lib" /MACHINE:X86 /SAFESEH Release\qrc_ratbehavioranalysis.obj
+         Release\moc_ratbehavioranalysis.obj
+         Release\main.obj
+         Release\ratbehavioranalysis.obj
+         RatBehaviorAnalysis.vcxproj -> C:\LocalPro\KinectV2\RatBehaviorAnalysis\Win32\Release\RatBehaviorAnalysis.exe
+     1>Done Building Project "C:\LocalPro\KinectV2\RatBehaviorAnalysis\RatBehaviorAnalysis\RatBehaviorAnalysis.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.23
